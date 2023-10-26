@@ -46,6 +46,7 @@ packaging==23.2
 pandas==2.1.1
 Pillow==10.1.0
 pipreqs==0.4.13
+pip==23.3.1
 plotly==5.18.0
 protobuf==4.24.4
 pyarrow==13.0.0
